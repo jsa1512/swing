@@ -7,6 +7,7 @@ public class Principale {
 		System.out.println("Hello world !");
 		System.out.println("Belle journée !");
 		System.out.println("test Git");
+		System.out.println("test Git réussi");
 
 	}
 
